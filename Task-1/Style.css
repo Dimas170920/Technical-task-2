@@ -1,0 +1,106 @@
+div.blue{
+	width: 300px;
+	height: 75px;
+	background-color: blue;
+}
+
+div.yellow{
+	width: 300px;
+	height: 75px;
+	background-color: yellow;
+	margin-bottom: 20px
+}
+
+
+div.Japan{
+	width: 300px;
+	height: 150px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+	background-color: PeachPuff;
+	margin-bottom: 20px
+}
+
+div.redCircle {
+      width: 100px;
+      height: 100px;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      background: red;
+      margin: 0
+
+}
+
+div.blueBackground{
+	width: 300px;
+	height: 150px;
+	background-color: blue;
+	margin-bottom: 20px;
+}
+
+div.whiteCrossV{
+	position: relative;
+	width: 50px;
+	height: 150px;
+	background-color: white;
+	margin-left: 70px;
+	
+	
+}
+
+div.redCrossV{
+	position: relative;
+	width: 30px;
+	height: 150px;
+	background-color: red;
+	margin-left: 80px;
+ 	top: -200px;
+}
+
+div.whiteCrossH{
+	position: relative;
+	top: -100px;
+  	left: calc(0%);
+	width: 300px;
+	height: 50px;
+	background-color: white;
+	display: flex;
+	align-items: center;
+  	justify-content: center;
+}
+
+div.redCrossH{
+	
+	width: 300px;
+	height: 30px;
+	background-color: red;
+	margin:0;
+}
+
+
+div.white{
+	width: 300px;
+	height: 75px;
+	background-color: PeachPuff;
+}
+
+div.red{
+	
+	width: 300px;
+	height: 75px;
+	background-color: red;
+}
+
+   div.blueTriangle{
+	position: relative;	
+	top: -150px;
+   }
+
+   .blueTriangle{ 
+    position: absolute; 
+    border: 75px solid transparent; border-left: 60px solid ;
+    color: blue;
+   }
+
